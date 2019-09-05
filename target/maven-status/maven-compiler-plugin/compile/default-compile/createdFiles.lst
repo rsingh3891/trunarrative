@@ -1,0 +1,8 @@
+pages\TruNarrativeHomePage.class
+utilities\Browser.class
+pages\GoogleSearchPage.class
+stepdefinitions\TruNarrativeTeamStepDefinitions.class
+pages\GoogleResultsPage.class
+pages\AbstractPage.class
+utilities\AbstractCommon.class
+pages\TruNarrativeTeamPage.class

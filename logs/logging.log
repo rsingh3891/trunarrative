@@ -1,0 +1,27 @@
+2019-08-29 14:53:41 INFO  Browser:24 - -------------------------------------------------------------------------------------------
+2019-08-29 14:53:41 INFO  Browser:25 - Opening the Chrome browser
+2019-08-29 14:53:44 INFO  Browser:37 - Opening the Google search page
+2019-08-29 14:53:44 INFO  Browser:55 - Opening URL: https://www.google.com
+2019-08-29 14:53:46 INFO  Browser:32 - Entering TruNarrative into the search field
+2019-08-29 14:53:46 INFO  Browser:72 - Typing 'TruNarrative' into the element [[ChromeDriver: chrome on XP (ab2c69268f4a7a22e81fd1854bc6317a)] -> name: q]
+2019-08-29 14:53:46 INFO  Browser:27 - Clicking on the Google Search button
+2019-08-29 14:53:46 INFO  Browser:33 - Clicking on element [[ChromeDriver: chrome on XP (ab2c69268f4a7a22e81fd1854bc6317a)] -> name: btnK]
+2019-08-29 14:53:49 INFO  Browser:25 - Checking the first result link contains the link https://trunarrative.com
+2019-08-29 14:53:49 INFO  Browser:27 - PASS: The first result link contains the link https://trunarrative.com
+2019-08-29 14:53:49 INFO  Browser:19 - Clicking on the first result link
+2019-08-29 14:53:49 INFO  Browser:33 - Clicking on element [[ChromeDriver: chrome on XP (ab2c69268f4a7a22e81fd1854bc6317a)] -> xpath: //*/cite[@class='iUh30']]
+2019-08-29 14:54:01 INFO  Browser:44 - Checking the sub heading
+2019-08-29 14:54:01 INFO  Browser:47 - PASS: The sub heading contains the text Easy Onboarding.  Smooth Transactions.  Insightful Compliance.
+2019-08-29 14:54:01 INFO  Browser:27 - Clicking on the menu
+2019-08-29 14:54:01 INFO  Browser:33 - Clicking on element [[ChromeDriver: chrome on XP (ab2c69268f4a7a22e81fd1854bc6317a)] -> id: burger]
+2019-08-29 14:54:01 INFO  Browser:38 - Clicking on the TruNarrative Team link
+2019-08-29 14:54:01 INFO  Browser:33 - Clicking on element [[ChromeDriver: chrome on XP (ab2c69268f4a7a22e81fd1854bc6317a)] -> xpath: //*[@id='menu-item-6388']/a]
+2019-08-29 14:54:08 INFO  Browser:68 - Getting the number of profiles on the page
+2019-08-29 14:54:08 INFO  Browser:71 - PASS: Expected number of profiles 8 found
+2019-08-29 14:54:08 INFO  Browser:81 - PASS: Found name John Lord
+2019-08-29 14:54:08 INFO  Browser:83 - PASS: Found corresponding role Founder & CEO
+2019-08-29 14:54:09 INFO  Browser:81 - PASS: Found name David Eastaugh
+2019-08-29 14:54:09 INFO  Browser:83 - PASS: Found corresponding role Chief Technology Officer
+2019-08-29 14:54:09 INFO  Browser:81 - PASS: Found name Nicola Janney
+2019-08-29 14:54:09 INFO  Browser:83 - PASS: Found corresponding role Human Resources Manager
+2019-08-29 14:54:09 INFO  Browser:61 - Closing the browser
